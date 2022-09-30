@@ -140,9 +140,8 @@ a{
         top: -3px;
         font-size: 12px;
     }
-    body{
-        border: 1px solid #1d1e4c;
-        height: 1530px;
-        width: 300px;
+   body{
+        border: 0px solid #1d1e4c;
+        outline: 0px solid #1d1e4c;
     }
 }
